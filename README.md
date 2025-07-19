@@ -1,4 +1,4 @@
-Toyota_ML
+Toyota_ML_Projects
 
 The Toyota dataset is a valuable resource for in-depth data analysis and visualization in the automotive field. It contains essential columns such as:
 
