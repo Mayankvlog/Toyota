@@ -15,6 +15,3 @@ Automatic: Specifies whether cars have automatic transmissions.
 
 These attributes offer insights into automotive trends, driving patterns, and performance factors. The dataset lends itself well to data analysis and visualization, aiding researchers, analysts, and enthusiasts in uncovering valuable automotive insights.
 
-
-
-
